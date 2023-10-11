@@ -1,0 +1,14 @@
+.home {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  img {
+    padding: 20px;
+  }
+}
+.title {
+  color: #dbd2d2;
+  text-align: center;
+}
